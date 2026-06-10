@@ -1,0 +1,23 @@
+{
+  "planId": "d996ac68-ca62-4ceb-a849-11aba0147803",
+  "planTitle": "产品经理方法论",
+  "date": "2026-06-08",
+  "tasks": [
+    {
+      "id": "journal-1780889698017",
+      "title": "AI产品调研",
+      "completed": true,
+      "category": "学习"
+    },
+    {
+      "id": "journal-1780906816963",
+      "title": "竞品分析",
+      "completed": false,
+      "category": "学习"
+    }
+  ],
+  "notes": "ai竞品分析",
+  "studyHours": 3,
+  "id": "2026-06-08-d996ac68-ca62-4ceb-a849-11aba0147803-1780889766647",
+  "createdAt": "2026-06-08T03:36:06.647Z"
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "rec-1780906120336-1",
+    "type": "skill",
+    "title": "增加学习时长",
+    "description": "本周学习时长为2.5小时，建议每天至少学习1小时以保持学习节奏",
+    "priority": "high",
+    "score": 95,
+    "icon": "⏰"
+  },
+  {
+    "id": "rec-1780906120336-3",
+    "type": "document",
+    "title": "继续阅读「大厂0-1数据分析Agent项目实现.pdf」",
+    "description": "您有3个文档待阅读，建议优先完成这些内容",
+    "priority": "high",
+    "score": 90,
+    "relatedDocumentId": "d6672ba6-e7c0-4e10-9d18-2ad837d5bcd8",
+    "icon": "📚"
+  },
+  {
+    "id": "rec-1780906120336-2",
+    "type": "practice",
+    "title": "提高任务完成率",
+    "description": "任务完成率为0%，建议优先完成计划中的核心任务",
+    "priority": "medium",
+    "score": 85,
+    "icon": "✅"
+  },
+  {
+    "id": "rec-1780906120336-6",
+    "type": "skill",
+    "title": "保持学习连续性",
+    "description": "已连续学习1天，再坚持6天即可解锁「七日连续」成就!",
+    "priority": "medium",
+    "score": 80,
+    "icon": "🔥"
+  }
+]

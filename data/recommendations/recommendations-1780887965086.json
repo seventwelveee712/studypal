@@ -1,0 +1,30 @@
+[
+  {
+    "id": "rec-1780887965086-1",
+    "type": "skill",
+    "title": "增加学习时长",
+    "description": "本周学习时长为0.0小时，建议每天至少学习1小时以保持学习节奏",
+    "priority": "high",
+    "score": 95,
+    "icon": "⏰"
+  },
+  {
+    "id": "rec-1780887965086-3",
+    "type": "document",
+    "title": "继续阅读「AI + 高德MCP：10分钟搞定一份旅行攻略！并进行实时路线导航 .pdf」",
+    "description": "您有2个文档待阅读，建议优先完成这些内容",
+    "priority": "high",
+    "score": 90,
+    "relatedDocumentId": "f954f4ad-b573-4c36-b1b9-77c49bb05790",
+    "icon": "📚"
+  },
+  {
+    "id": "rec-1780887965086-8",
+    "type": "practice",
+    "title": "记录今日学习",
+    "description": "今天还没有记录学习情况，点击下方按钮开始记录",
+    "priority": "high",
+    "score": 85,
+    "icon": "📝"
+  }
+]

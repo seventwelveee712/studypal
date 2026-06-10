@@ -1,0 +1,10 @@
+{
+  "id": "plan_maker",
+  "title": "规划师",
+  "description": "创建第一个学习计划",
+  "icon": "🎯",
+  "threshold": 1,
+  "type": "document",
+  "unlocked": true,
+  "unlockedAt": "2026-06-08T03:33:44.042Z"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "path-ai-product-manager-1780906732543",
+  "goalId": "ai-product-manager",
+  "goalTitle": "AI产品经理",
+  "steps": [
+    {
+      "order": 1,
+      "title": "AI技术基础",
+      "description": "了解AI基本概念、机器学习、深度学习原理",
+      "estimatedHours": 10,
+      "resources": [
+        {
+          "id": "ai-basics",
+          "title": "AI入门课程",
+          "url": "https://www.coursera.org/courses?query=artificial%20intelligence",
+          "type": "course",
+          "description": "Coursera上的AI入门课程"
+        },
+        {
+          "id": "ai-book",
+          "title": "AI产品经理入门",
+          "url": "https://www.amazon.com/AI-Product-Manager-Introduction-Machine/dp/149208168X",
+          "type": "book",
+          "description": "AI产品经理入门书籍"
+        },
+        {
+          "id": "ai-101",
+          "title": "AI 101",
+          "url": "https://www.deeplearning.ai/courses/ai-for-everyone/",
+          "type": "course",
+          "description": "面向所有人的AI课程"
+        }
+      ],
+      "id": "ai-product-manager-step-1",
+      "goalId": "ai-product-manager",
+      "completed": true,
+      "completedAt": "2026-06-08T08:19:30.974Z"
+    },
+    {
+      "order": 2,
+      "title": "产品思维培养",
+      "description": "学习产品设计方法论、用户研究方法",
+      "estimatedHours": 8,
+      "resources": [
+        {
+          "id": "design-thinking",
+          "title": "设计思维",
+          "url": "https://www.interaction-design.org/literature/topics/design-thinking",
+          "type": "article",
+          "description": "设计思维方法论"
+        },
+        {
+          "id": "ux-design",
+          "title": "用户体验设计",
+          "url": "https://www.nngroup.com/articles/ux-design/",
+          "type": "article",
+          "description": "Nielsen Norman Group的UX设计指南"
+        },
+        {
+          "id": "product-book",
+          "title": "启示录",
+          "url": "https://www.amazon.com/Inspired-Building-Create-Products-Customers/dp/1118968375",
+          "type": "book",
+          "description": "产品经理必读经典"
+        }
+      ],
+      "id": "ai-product-manager-step-2",
+      "goalId": "ai-product-manager",
+      "completed": false
+    },
+    {
+      "order": 3,
+      "title": "AI产品案例分析",
+      "description": "分析成功的AI产品案例，学习其设计思路",
+      "estimatedHours": 8,
+      "resources": [
+        {
+          "id": "ai-cases",
+          "title": "AI产品案例库",
+          "url": "https://www.producthunt.com/products/tagged/ai",
+          "type": "article",
+          "description": "Product Hunt上的AI产品"
+        },
+        {
+          "id": "chatgpt-case",
+          "title": "ChatGPT案例分析",
+          "url": "https://openai.com/research",
+          "type": "article",
+          "description": "OpenAI研究博客"
+        },
+        {
+          "id": "midjourney-case",
+          "title": "Midjourney案例",
+          "url": "https://www.midjourney.com/research/",
+          "type": "article",
+          "description": "Midjourney研究页面"
+        }
+      ],
+      "id": "ai-product-manager-step-3",
+      "goalId": "ai-product-manager",
+      "completed": false
+    },
+    {
+      "order": 4,
+      "title": "AI产品原型设计",
+      "description": "学习如何设计AI产品的原型和交互",
+      "estimatedHours": 8,
+      "resources": [
+        {
+          "id": "figma",
+          "title": "Figma教程",
+          "url": "https://www.figma.com/learn/",
+          "type": "course",
+          "description": "Figma官方教程"
+        },
+        {
+          "id": "ai-design",
+          "title": "AI产品设计指南",
+          "url": "https://uxdesign.cc/designing-ai-products-a-practical-guide-5a8f3a0a4a5a",
+          "type": "article",
+          "description": "AI产品设计实践指南"
+        }
+      ],
+      "id": "ai-product-manager-step-4",
+      "goalId": "ai-product-manager",
+      "completed": false
+    },
+    {
+      "order": 5,
+      "title": "AI产品落地",
+      "description": "了解AI产品开发流程、技术选型、项目管理",
+      "estimatedHours": 6,
+      "resources": [
+        {
+          "id": "ai-development",
+          "title": "AI产品开发实战",
+          "url": "https://www.oreilly.com/library/view/building-machine-learning/9781491994757/",
+          "type": "book",
+          "description": "机器学习产品开发书籍"
+        },
+        {
+          "id": "mlops",
+          "title": "MLOps入门",
+          "url": "https://mlops.community/",
+          "type": "article",
+          "description": "MLOps社区资源"
+        }
+      ],
+      "id": "ai-product-manager-step-5",
+      "goalId": "ai-product-manager",
+      "completed": false
+    }
+  ],
+  "createdAt": "2026-06-08T08:18:52.543Z",
+  "lastUpdatedAt": "2026-06-08T08:19:30.974Z",
+  "progress": 20
+}

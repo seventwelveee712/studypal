@@ -1,0 +1,10 @@
+{
+  "id": "first_doc",
+  "title": "初入知识海洋",
+  "description": "上传第一个文档",
+  "icon": "📚",
+  "threshold": 1,
+  "type": "document",
+  "unlocked": true,
+  "unlockedAt": "2026-06-08T03:33:43.948Z"
+}

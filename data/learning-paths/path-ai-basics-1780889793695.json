@@ -1,0 +1,46 @@
+{
+  "id": "path-ai-basics-1780889793695",
+  "goalId": "ai-basics",
+  "goalTitle": "AI基础入门",
+  "steps": [
+    {
+      "order": 1,
+      "title": "Python基础",
+      "description": "学习Python编程语言",
+      "estimatedHours": 10,
+      "resources": [
+        "Python官方文档"
+      ],
+      "id": "ai-basics-step-1",
+      "goalId": "ai-basics",
+      "completed": false
+    },
+    {
+      "order": 2,
+      "title": "机器学习基础",
+      "description": "学习监督学习、无监督学习等概念",
+      "estimatedHours": 10,
+      "resources": [
+        "Scikit-learn文档"
+      ],
+      "id": "ai-basics-step-2",
+      "goalId": "ai-basics",
+      "completed": false
+    },
+    {
+      "order": 3,
+      "title": "深度学习入门",
+      "description": "学习神经网络基础概念",
+      "estimatedHours": 10,
+      "resources": [
+        "TensorFlow入门教程"
+      ],
+      "id": "ai-basics-step-3",
+      "goalId": "ai-basics",
+      "completed": false
+    }
+  ],
+  "createdAt": "2026-06-08T03:36:33.695Z",
+  "lastUpdatedAt": "2026-06-08T03:36:33.695Z",
+  "progress": 0
+}
